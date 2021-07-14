@@ -14,8 +14,6 @@
  */
  
 #include <SoftwareSerial.h>
-
-
 boolean oldStatusSensor = false;  
 
 int sounds = 10;                   // Кол-во песен
@@ -23,6 +21,10 @@ int volume = 29;                   // Громкость
 
 SoftwareSerial SerialMP3(7, 6);    // RX, TX
 
+/*
+  Герконовый датчик открытия двери ставица на A5/GND
+  Резистор не нужен, используется аппаратный 10k
+*/
 
 void setup() {
   
