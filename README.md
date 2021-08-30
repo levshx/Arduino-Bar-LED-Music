@@ -1,5 +1,15 @@
 # Arduino-Bar-LED-Music
 
+<!-- # Badges -->
+
+[![Github issues](https://img.shields.io/github/issues/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/issues)
+[![Github forks](https://img.shields.io/github/forks/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/network/members)
+[![Github stars](https://img.shields.io/github/stars/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/stargazers)
+[![Github top language](https://img.shields.io/github/languages/top/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/)
+[![Github license](https://img.shields.io/github/license/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/)
+
+# Minimal Example
+
 Структурная схема, отличается расположением датчика открытия двери
 
 Питание (максимальные амперы/мощность) подбирать исходя от потребления светодиодной ленты, контроллера (12В/~150mA) и модуля mp3 (5В/~1А)
@@ -36,4 +46,8 @@ void setup() {
 void loop() {}
 ```
 
+# Contributors
 
+- [levshx](https://github.com/levshx)
+
+<!-- CREATED_BY_LEADYOU_README_GENERATOR -->
