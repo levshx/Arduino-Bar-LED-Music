@@ -8,7 +8,12 @@
 [![Github top language](https://img.shields.io/github/languages/top/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/)
 [![Github license](https://img.shields.io/github/license/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/)
 
-# Minimal Example
+
+# Описание
+
+Бар с автоматической подсветкой и фоновой музыкой.
+
+# Особенность (Важно)
 
 Структурная схема, отличается расположением датчика открытия двери
 
