@@ -2,16 +2,7 @@
 
 <!-- # Badges -->
 
-[![Github issues](https://img.shields.io/github/issues/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/issues)
-[![Github forks](https://img.shields.io/github/forks/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/network/members)
-[![Github stars](https://img.shields.io/github/stars/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/stargazers)
-[![Github top language](https://img.shields.io/github/languages/top/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/)
-[![Github license](https://img.shields.io/github/license/levshx/Arduino-Bar-LED-Music)](https://github.com/levshx/Arduino-Bar-LED-Music/)
-
-
 # Описание
-
-https://github.com/DFRobot/DFPlayer-Mini-mp3
 
 Бар с автоматической подсветкой и фоновой музыкой.
 
