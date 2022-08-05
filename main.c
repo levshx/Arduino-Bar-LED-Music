@@ -37,7 +37,7 @@ void setup() {
   pinMode(2, OUTPUT);
   pinMode(13, OUTPUT);
 
-  delay (100);
+  delay (2000);
 
   Watchdog.enable(RESET_MODE, WDT_PRESCALER_512); // Режим сторжевого сброса , таймаут ~4с
 }
@@ -54,15 +54,17 @@ void loop() {
     }    
     digitalWrite(13,1);
     digitalWrite(2,1);
+    delay(500);
   }
   else
   {
     // Закрыта дверь
     if (oldStatusSensor) {
-      mp3_stop();
+      mp3_stop();      
     }
     digitalWrite(13,0);
     digitalWrite(2,0);
+    delay(500);
   }
 
   oldStatusSensor = openSensor;
